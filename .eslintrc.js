@@ -19,5 +19,6 @@ module.exports = {
   ],
   rules: {
     'react/prefer-stateless-function': [0, { ignorePureComponents: true }],
+    'react/prop-types': [0],
   },
 };
